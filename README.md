@@ -1,6 +1,6 @@
 # Case Management Bulletin Board
 
-*For Case Managers at the YMCA International Services.* You can also [**look at the slides.**](materials/cgrainger-case-management.pdf))
+*For Case Managers at the YMCA International Services.* You can also [**look at my presentation slides.**](materials/cgrainger-case-management.pdf)
 
 Sharing & [editing](#instructions-for-editing) is encouraged!
 
