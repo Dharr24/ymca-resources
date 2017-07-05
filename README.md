@@ -1,6 +1,6 @@
 # Case Management Bulletin Board
 
-*Notes, Resources, and Updates for Case Managers at the YMCA International Services.*
+*For Case Managers at the YMCA International Services.* You can also [**look at the slides.**](materials/cgrainger-case-management.pdf))
 
 Sharing & [editing](#instructions-for-editing) is encouraged!
 
@@ -11,7 +11,6 @@ Sharing & [editing](#instructions-for-editing) is encouraged!
 - [Social Security Forms](#supplemental-security-income)
 - [Medical Transportation](#medically-necessary-transportation)
 - [Rental Assistance](#rental-assistance)
-- [What happened to DARS?](http://www.twc.state.tx.us/files/news/dars-transition-brochure-twc.pdf)
 
 # Shelter
 Here's a [shelter map](https://drive.google.com/open?id=1DlnGODIVZdoQ_O2P2CK_oXOZkZQ&usp=sharing) for sharing & editing.
