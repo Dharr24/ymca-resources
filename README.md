@@ -240,8 +240,56 @@ USCRI contracted [Point Comfort Underwriters](https://rma.pointcomfort.com/#logi
 - Here's the [enrollment website](https://eredtx.org/)
 	- Contact: Andrew Merville
 		- amerville@uscritx.org
-- Here's the [Interpretation FAQ]
-- Here's the [Transportation FAQ]
+
+#### RMA Interpretation FAQ
+
+1. Some of my clients are more comfortable speaking a language other than English when talking with a healthcare provider. Does the Refugee Medical Assistance (RMA) program in Texas offer interpreting services? 
+
+Interpreting services may be offered by the healthcare provider, local resettlement agency or other community resources. If language services, are not otherwise available, the case manager can request interpreting services for a medical appointment through the U.S. Committee for Refugees and Immigrants (USCRI) by completing the Interpreter Request Form. 
+
+2. How can I get access to interpreting services on behalf of my client?
+
+To request interpreting services for your client’s scheduled medical appointment, please complete the Interpreter Request Form. The form must be submitted to RMAlanguageservices@uscridc.org at least three days prior to the appointment date. If the request is approved, you will receive an email stating that an interpreter will call the healthcare provider at the time of your client’s medical appointment. If the request is not approved, you will receive an email indicating the reason. 
+
+3. Who is eligible to receive interpreting services under Refugee Medical Assistance?
+
+To be eligible for interpreting services, a client must be eligible to receive RMA health benefits within the state of Texas, have a scheduled medical appointment in a location that does not currently offer interpreter services, and submit a completed Interpreter Request Form at least three days in advance of his or her appointment. 
+
+4. Who will pay for the interpreting service? 
+
+USCRI will pay for this language interpreting service with RMA program funds. You and your client will not be responsible for any charges incurred if you are using the telephonic interpreting service we provide. USCRI does not currently reimburse other interpreting services that are used during a health encounter. 
+
+5. What should I do if my client’s appointment has been cancelled?
+
+If your client’s appointment has been cancelled or they are unable to keep the appointment, please inform USCRI as soon as you find out by sending an email to RMAlanguageservices@uscridc.org. The email should include your client’s name, date and time of the appointment, the language requested and the healthcare provider’s name. USCRI will monitor cancelled requests for interpreting services to identify program improvement opportunities. 
+
+6. What should I do if my client or I have issues or concerns with the interpreting service? 
+
+USCRI is committed to culturally and linguistically competent health services. If you or your client have any concerns about the quality of interpreting services, please send an email to RMAlanguageservices@uscridc.org. The email should include a brief description of the specific concern, your client’s name, date and time of the appointment, the language requested and the healthcare provider’s name. This information will help us follow up in a timely manner and address any concerns. 
+
+### RMA Transportation FAQ
+
+For Transportation use the attached form and send it to Ryan Yao three business days before the appointment. 
+
+At least 3 days advanced notice is required for any trip request. Any question or concern, please e-mail Ryan Yao at ryao@uscridc.org, or call 703-310-1130 x3060.
+
+Language service for transportation activities is available upon request. Please specify the language, which you need in the Comments/Notes section. 
+Please include client’s name, contact information, pick-up address, and drop-off address on the request form. 
+If the pick-up location is in a gated/secured community, please provide all the necessary information to Amera Solutions, such as front gate code, apartment number, or alternative pick-up location, which is public accessible, for instance, leasing office, in the Comments/Notes section.
+Please note: If the driver cannot locate the client/patient at the pick-up location at the requested time, the driver will contact both the client and individual who made the request. If neither cannot be reached, the trip will be cancelled.
+For round trip:
+•             Express Reservation Online: Please select “Round Trip” under the Trip Type section.
+•             Transportation Referral Form: Please specify the Trip Type in the Comments / Notes section.
+If you request round trip service: 
+•             Please have the client or the case manager call 281-872-6400, after the appointment, and provide the Amera Service Representative his/her reservation number or his/her name, and a driver will be sent to pick up the client for the return trip, under the same trip request. 40 to 50 minutes’ wait time might be applied for the return trip. 
+•             If the client knows, that his/her appointment will be done in a specific time frame, he/she can call ahead, and book the return trip with Amera, so that they do not have to wait for 40 to 50 minutes, after the appointment. (Language service is available)
+The service is available for Sedan and Wheelchair Van ONLY. 
+Any trip to non-RMA covered medical provider or service will not be covered under the plan.
+All trip requests will be reviewed and approved by USCRI, prior to service. 
+
+For Interpretation Services:
+Use attached forms to request services. Please only do this for providers who do not have access to Language Line or other interpretation services. Always ask if the clinic provides first. Once again request interpretation 3 business days prior to appointment. 
+
 
 ### Gold Card
 The [Harris Health Financial Assistance Program](https://www.harrishealth.org/en/patients/access-care/eligibility-card/pages/default.aspx)  (known colloquially as the "Gold Card") is a healthcare discount.
@@ -294,6 +342,7 @@ Healthcare through the [Affordable Care Act](https://www.healthcare.gov/glossary
 	- 7447 Harwin Drive, Suite 180 Houston, Texas 77036 
 	- Phone: (713) 274-2599
 	- Fax: (713) 437-4611
+	
 **Refugee Program Contacts** (as of 4/3/17)
 - Outreach Case Managers
 	- Abdul Haidary
@@ -344,12 +393,9 @@ NOTE: Both Medicaid and RMA are not currently (7/15/17) providing coverage for g
 
 ## Refugee Health Profiles
 ### [CDC Refugee Health Profiles](https://www.cdc.gov/immigrantrefugeehealth/profiles/index.html)
-- "key health and cultural information about specific refugee groups resettling in the United States"
+> information on population movements, background, priority health conditions, medical screening information, ... **Sara Kauffman**
 ### [NPCT Country Guides](https://gulfcoastjewishfamilyandcommunityservices.org/refugee/resources/country-condition-reports/)
-- brief overviews of each country
-	- current healthcare systems
-	- common perceptions and responses to adverse mental health symptoms
-	- typical community support networks
+> provides a brief introduction to country-specific background on ongoing conflict, recommendations for health care providers, common phrases related to mental health symptoms, and traditional coping mechanisms. **Sara Kauffman** 
 	
 # Nutrition
 ## Supplemental Nutritional Assistance Program
