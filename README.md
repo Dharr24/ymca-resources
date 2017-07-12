@@ -1,6 +1,6 @@
 # Case Management Bulletin Board
 
-*For Case Managers at the YMCA International Services.* You can also [**look at my presentation slides.**](materials/cgrainger-case-management.pdf)
+*For Case Managers at the YMCA International Services.* You can also [**review the presentation slides.**](materials/cgrainger-case-management.pdf)
 
 Sharing & [editing](#instructions-for-editing) is encouraged!
 
@@ -23,6 +23,15 @@ Here's a [shelter map](https://drive.google.com/open?id=1DlnGODIVZdoQ_O2P2CK_oXO
 	- Address: 2407 N Main St, Houston, TX 77009
 	- Phone: 713 224 2875
 	- Hours: 8AM–4:30PM
+	
+## Women's Shelters
+- [ICNA Relief Shelter](http://www.icnarelief.org/site2/index.php/women-shelter-womenshelter/houston)
+	- Address: 4021 Baden St, Houston, TX 77009
+	- Phone: 832-302-1681
+	- Alt Phone: 832-382-1669
+	- Contact: Seemi Bukhari 
+		- <seemib.tx@icnarelief.org>
+		- <houston@icnarelief.org>
 	
 ## for Hispanic Immigrants
 - [Casa Juan Diego](http://cjd.org/about/what-is-casa-juan-diego/)
@@ -196,8 +205,7 @@ Contact: andy.hardwick@ssa.gov
 ### Freewheels Houston
 Bikes for Refugees:
 - contact Joanne Pantaleon Torres or [Bill Mintz](billmintz51@att.net) to request a bicycle.
-
-> If you would like to reward your clients for the completion of a class or any accomplishment by giving them a free bike, please let me know so that I can introduce you to Bill Mintz.  A free bike is good a prize, isn’t it? -**Joanne**
+> If you would like to reward your clients for the completion of a class or any accomplishment by giving them a free bike, please let me know so that I can introduce you to Bill Mintz.  A free bike is good a prize, isn’t it? **Joanne**
 
 # Healthcare
 
@@ -213,22 +221,27 @@ adapted from Sabrina Kang's 3/12/2016 *Forbes* article
 - **Get a visit summary (and a copy of any referrals).** A written record or an after-visit summary makes it more likely that your client will get their concerns addressed by the next visit. It's also proof that your client is *actively* seeking treatment for their medical conditions.
 
 ## Healthcare Coverage
-### [Medicaid](https://hhs.texas.gov/services/questions-about-your-benefits) is a [federal program](https://en.wikipedia.org/wiki/Medicaid) administered by Texas Health and Human Services.
+### [Medicaid](https://hhs.texas.gov/services/questions-about-your-benefits) 
+A [federal program](https://en.wikipedia.org/wiki/Medicaid) administered by Texas Health and Human Services. There are *5 different types* of Medicaid facilitated by *6 different companies*.
 - Traditional Medicaid & Children's Medicaid
-	- [Texas Medicaid & Healthcare Partnership](http://www.tmhp.com/Pages/default.aspx)
+	- through [Texas Medicaid & Healthcare Partnership](http://www.tmhp.com/Pages/default.aspx)
 - STAR (pregnant women, adults caring for children)
-	- [Amerigroup](https://www.myamerigroup.com/TX/Pages/star.aspx), [Community Health Choice](https://www.communitycares.com/en-us/Plans-Benefits/Texas-STAR-Plan), [Molina](http://www.molinahealthcare.com/members/tx/en-US/hp/medicaid/star/Pages/star.aspx), [Texas Children's](http://www.texaschildrenshealthplan.org/what-we-offer/star), [UnitedHealthcare](http://www.uhccommunityplan.com/tx/medicaid/star/benefits.html)
+	- through [Amerigroup](https://www.myamerigroup.com/TX/Pages/star.aspx), [Community Health Choice](https://www.communitycares.com/en-us/Plans-Benefits/Texas-STAR-Plan), [Molina](http://www.molinahealthcare.com/members/tx/en-US/hp/medicaid/star/Pages/star.aspx), or [Texas Children's](http://www.texaschildrenshealthplan.org/what-we-offer/star), [UnitedHealthcare](http://www.uhccommunityplan.com/tx/medicaid/star/benefits.html)
 - STAR+PLUS (disabled adults)
-	- [Amerigroup](https://www.myamerigroup.com/TX/Pages/star-plus.aspx), [Molina](http://www.molinahealthcare.com/members/tx/en-US/hp/medicaid/starplus/Pages/starplus.aspx), [UnitedHealthcare](http://www.uhccommunityplan.com/tx/medicaid/star_plus.html)
+	- through [Amerigroup](https://www.myamerigroup.com/TX/Pages/star-plus.aspx), [Molina](http://www.molinahealthcare.com/members/tx/en-US/hp/medicaid/starplus/Pages/starplus.aspx), or [UnitedHealthcare](http://www.uhccommunityplan.com/tx/medicaid/star_plus.html)
 - STAR Kids (disabled persons under 21 years old)
-	- [Amerigroup](https://myamerigroup.com/TX/Pages/star-kids.aspx), [Texas Children's](http://www.texaschildrenshealthplan.org/what-we-offer/star-kids), [UnitedHealthcare](http://www.uhccommunityplan.com/tx/medicaid/star_kids.html)
+	- through [Amerigroup](https://myamerigroup.com/TX/Pages/star-kids.aspx), [Texas Children's](http://www.texaschildrenshealthplan.org/what-we-offer/star-kids), [UnitedHealthcare](http://www.uhccommunityplan.com/tx/medicaid/star_kids.html)
 
 ### Refugee Medical Assistance (RMA)
-- Texas Health and Human Services no longer administers RMA.
-- USCRI contracted [Point Comfort Underwriters](https://rma.pointcomfort.com/#login) (PCU) as the new RMA vendor.
-	- [RMA Handbook](https://rma.pointcomfort.com/files/RMA%20User%20Guide.pdf)
-	- [Frequently Asked Questions](http://refugees.org/wp-content/uploads/2017/02/Texas-Refugee-Medical-Assistance-Frequently-Asked-Questions.pdf)
-	- [Contact Sheet](materials/texas-rma-contacts.pdf)
+USCRI contracted [Point Comfort Underwriters](https://rma.pointcomfort.com/#login) (PCU) as the new RMA vendor. If you have a problem, contact somebody on the **[RMA Contact Sheet](materials/texas-rma-contacts.pdf)**
+> Please share with all staff members who work with RMA, especially front-line caseworkers. **Jessica Montour, MPH**
+- RMA provides **healthcare coverage**, **medical transportation** and **interpretation** during the first 8 months from arrival.
+- Here's the [RMA Handbook](https://rma.pointcomfort.com/files/RMA%20User%20Guide.pdf).
+- Here's the [enrollment website](https://eredtx.org/)
+	- Contact: Andrew Merville
+		- amerville@uscritx.org
+- Here's the [Interpretation FAQ]
+- Here's the [Transportation FAQ]
 
 ### Gold Card
 The [Harris Health Financial Assistance Program](https://www.harrishealth.org/en/patients/access-care/eligibility-card/pages/default.aspx)  (known colloquially as the "Gold Card") is a healthcare discount.
@@ -263,34 +276,68 @@ The [Harris Health Financial Assistance Program](https://www.harrishealth.org/en
 
 ### Healthcare through the Affordable Care Act
 Healthcare through the [Affordable Care Act](https://www.healthcare.gov/glossary/affordable-care-act/) for individuals living between 100% FPL and 400% FPL (1 month turnaround).
-- You can [screen](https://www.healthcare.gov/screener/) your client to see if they're eligible.
-- You can complete an application online (90 minutes) or over the phone (3 hours and *very challenging*).
-	- These applications require almost as much information as an income tax return.
+- Here's an [overview](https://www.healthcare.gov/apply-and-enroll/get-ready-to-apply/).
+- You should [screen](https://www.healthcare.gov/screener/) your client to see if they're eligible.
+- Then, refer to Alliance:
+	- Phone: 713-776-4700
+	- Hours:
+	- Address:
+- You can also complete an application online (90 minutes).
+	- These applications are as difficult as creating an income tax return.
+	- Review the **[required documents](https://marketplace.cms.gov/outreach-and-education/marketplace-application-checklist.pdf)**.
 	- You should enter each household member's social security number.
 	- Try to be as rigorous as possible about the people living in the household.
-- Be mindful of policy changes due to the [American Health Care Act](https://en.wikipedia.org/wiki/American_Health_Care_Act_of_2017#Comparison_between_ACA_and_AHCA). 
 
 ## Vaccinations
-- Clients within 1 year of arrival can make vaccination appointments at [Harris County Public Health](http://publichealth.harriscountytx.gov/Services-Programs/Programs/RefugeeScreening)
+- Refugees within 1 year of arrival can make vaccination appointments at [Harris County Public Health](http://publichealth.harriscountytx.gov/Services-Programs/Programs/RefugeeScreening)
  	- Harwin Outreach Center
 	- 7447 Harwin Drive, Suite 180 Houston, Texas 77036 
 	- Phone: (713) 274-2599
 	- Fax: (713) 437-4611
-	
+- **Refugee Program Contacts** (as of 4/3/17)
+	- Outreach Case Managers
+		- Abdul Haidary
+			- 713-274-2582
+			- ahaidary@hcphes.org
+		- Abraham Tamang 
+			- 713-274-2584
+			- atamang@hcphes.org
+		- Lillian Min
+			- 713-274-2585
+			- lmin@hcphes.org
+		- Nathalie Delgado
+			- 713-274-2581
+			- ndelgado@hcphes.org
+	- Client Specialists 
+		- Chelsie Lemelle 
+			- 713-274-2567
+			- cmlemelle@hcphes.org
+		- Flor Marte
+			- 713-274-2563
+			- fmarte@hcphes.org 
+	- Nurse
+		- Cherly Jones 
+		- 713-274-2592
+		- cjones@hcphes.org 
+	- Emergency Contact
+		- Hawalul Hussein 
+		- 713-274-2566
+		- hhussein@hcphes.org 
+
 ## Vision
 - OneSight Program
 
 ## Dental 
 > Dr. Bishara is interested in helping refugees. His clinic will provide $35 exams and x-rays for YMCA clients. Clients can decide to pay for further dental care. **Shaoli Bhadra**
 - [Bishara Dental](http://bisharadental.com/about-us/)
-- 6060 Richmond Ave, # 210
-- Houston, TX 77057
-- Phone: (832) 767-3331
-- Fax: (832) 538-0343
-- Email: menabishara@bisharadental.com
-- Hours: Monday - Friday, 9:00am - 5:00pm
+	- 6060 Richmond Ave, # 210 Houston, TX 77057
+	- Phone: (832) 767-3331
+	- Fax: (832) 538-0343
+	- Email: [menabishara@bisharadental.com](mailto:menabishara@bisharadental.com)
+	- Hours: Monday - Friday, 9:00am - 5:00pm
 	- Evening & Saturday appointments available
-	
+NOTE: Both Medicaid and RMA are not currently (7/15/17) providing coverage for general dental care. Both will cover *emergency* dental care if the procedure is done within 48 hours of the injury. 
+
 ## Medical Bill Reconcilliation
 - template for calling
 - Charity Care Programs
