@@ -235,7 +235,7 @@ A [federal program](https://en.wikipedia.org/wiki/Medicaid) administered by [TX 
 ### Refugee Medical Assistance (RMA)
 USCRI contracted [Point Comfort Underwriters](https://rma.pointcomfort.com/#login) (PCU) as the new RMA vendor. If you have a problem, contact somebody on the **[RMA Contact Sheet](materials/texas-rma-contacts.pdf)**
 > Please share with all staff members who work with RMA, especially front-line caseworkers. **Jessica Montour, MPH**
-- RMA provides **healthcare coverage**, **medical transportation** and **interpretation** during the first 8 months from arrival.
+- RMA provides **healthcare coverage**, **[medical transportation** and **interpretation** during the first 8 months from arrival.
 - Here's the [RMA Handbook](https://rma.pointcomfort.com/files/RMA%20User%20Guide.pdf).
 - Here's the [enrollment website](https://eredtx.org/)
 	- Contact: Andrew Merville
