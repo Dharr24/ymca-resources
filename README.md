@@ -193,7 +193,11 @@ Contact: andy.hardwick@ssa.gov
 		- *?hl=sw* for Swahili
 		- *?hl=es* for Spanish
 		- *?hl=bn* for Bengali
-		
+### Freewheels Houston
+Bikes for Refugees:
+- contact Joanne Pantaleon Torres or [Bill Mintz](billmintz51@att.net) to request a bicycle.
+
+> If you would like to reward your clients for the completion of a class or any accomplishment by giving them a free bike, please let me know so that I can introduce you to Bill Mintz.  A free bike is good a prize, isn’t it? -**Joanne**
 
 # Healthcare
 
