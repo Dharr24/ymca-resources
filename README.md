@@ -222,7 +222,7 @@ adapted from Sabrina Kang's 3/12/2016 *Forbes* article
 
 ## Healthcare Coverage
 ### [Medicaid](https://hhs.texas.gov/services/questions-about-your-benefits) 
-A [federal program](https://en.wikipedia.org/wiki/Medicaid) administered by Texas Health and Human Services. There are *5 different types* of Medicaid facilitated by *6 different companies*.
+A [federal program](https://en.wikipedia.org/wiki/Medicaid) administered by [TX HHSC](https://hhs.texas.gov/hhs-services). There are *5 types* of Medicaid through *6 companies*.
 - Traditional Medicaid & Children's Medicaid
 	- through [Texas Medicaid & Healthcare Partnership](http://www.tmhp.com/Pages/default.aspx)
 - STAR (pregnant women, adults caring for children)
@@ -289,38 +289,38 @@ Healthcare through the [Affordable Care Act](https://www.healthcare.gov/glossary
 	- Try to be as rigorous as possible about the people living in the household.
 
 ## Vaccinations
-- Refugees within 1 year of arrival can make vaccination appointments at [Harris County Public Health](http://publichealth.harriscountytx.gov/Services-Programs/Programs/RefugeeScreening)
+- Refugees within 1 year of arrival can make vaccination appointments at [Harris County Public Health](http://publichealth.harriscountytx.gov/Services-Programs/Programs/RefugeeScreening).
  	- Harwin Outreach Center
 	- 7447 Harwin Drive, Suite 180 Houston, Texas 77036 
 	- Phone: (713) 274-2599
 	- Fax: (713) 437-4611
-- **Refugee Program Contacts** (as of 4/3/17)
-	- Outreach Case Managers
-		- Abdul Haidary
-			- 713-274-2582
-			- ahaidary@hcphes.org
-		- Abraham Tamang 
-			- 713-274-2584
-			- atamang@hcphes.org
-		- Lillian Min
-			- 713-274-2585
-			- lmin@hcphes.org
-		- Nathalie Delgado
-			- 713-274-2581
-			- ndelgado@hcphes.org
-	- Client Specialists 
-		- Chelsie Lemelle 
-			- 713-274-2567
-			- cmlemelle@hcphes.org
-		- Flor Marte
-			- 713-274-2563
-			- fmarte@hcphes.org 
-	- Nurse
-		- Cherly Jones 
+**Refugee Program Contacts** (as of 4/3/17)
+- Outreach Case Managers
+	- Abdul Haidary
+		- 713-274-2582
+		- ahaidary@hcphes.org
+	- Abraham Tamang 
+		- 713-274-2584
+		- atamang@hcphes.org
+	- Lillian Min
+		- 713-274-2585
+		- lmin@hcphes.org
+	- Nathalie Delgado
+		- 713-274-2581
+		- ndelgado@hcphes.org
+- Client Specialists 
+	- Chelsie Lemelle 
+		- 713-274-2567
+		- cmlemelle@hcphes.org
+	- Flor Marte
+		- 713-274-2563
+		- fmarte@hcphes.org 
+- Nurse
+	- Cherly Jones 
 		- 713-274-2592
 		- cjones@hcphes.org 
-	- Emergency Contact
-		- Hawalul Hussein 
+- Emergency Contact
+	- Hawalul Hussein 
 		- 713-274-2566
 		- hhussein@hcphes.org 
 
