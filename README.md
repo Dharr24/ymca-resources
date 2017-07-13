@@ -194,14 +194,14 @@ Contact: andy.hardwick@ssa.gov
 	- An example route in [English](https://www.google.com/maps/dir/YMCA+International+Services+%D8%A7%D9%84%D9%85%D9%86%D8%B8%D9%85%D9%87,+6300+Westpark+Dr+%23600,+Houston,+TX+77057%E2%80%AD/Houston+Social+Security+Office,+10703+Stancliff+Rd,+Houston,+TX+77099/@29.7029048,-95.5670929,13z/data=!4m13!4m12!1m5!1m1!1s0x8640c3ca88e98717:0x9f59b67ffa8ce40b!2m2!1d-95.4956358!2d29.7237297!1m5!1m1!1s0x8640e7e4f226fcd9:0x90ae5ae08d489800!2m2!1d-95.5686086!2d29.6583674?hl=en) (add the text *?hl=en* to the end of the URL).
 	- An example route in [Farsi](https://www.google.com/maps/dir/YMCA+International+Services+%D8%A7%D9%84%D9%85%D9%86%D8%B8%D9%85%D9%87,+6300+Westpark+Dr+%23600,+Houston,+TX+77057%E2%80%AD%E2%80%AD/Houston+Social+Security+Office,+10703+Stancliff+Rd,+Houston,+TX+77099/@29.7029048,-95.5670929,13z/data=!4m13!4m12!1m5!1m1!1s0x8640c3ca88e98717:0x9f59b67ffa8ce40b!2m2!1d-95.4956358!2d29.7237297!1m5!1m1!1s0x8640e7e4f226fcd9:0x90ae5ae08d489800!2m2!1d-95.5686086!2d29.6583674?hl=fa) (add the text *?hl=fa* at the end of the URL). 
 	- Here's a [list of language codes](https://sites.google.com/site/tomihasa/google-language-codes) to translate Google maps.
-		- *?hl=ar* for Arabic
-		- *?hl=fr* for French
-		- *?hl=ps* for Pashto
-		- *?hl=ur* for Urdu
-		- *?hl=km* for Cambodian
-		- *?hl=sw* for Swahili
-		- *?hl=es* for Spanish
-		- *?hl=bn* for Bengali
+		- `?hl=ar` for Arabic
+		- `?hl=fr` for French
+		- `?hl=ps` for Pashto
+		- `?hl=ur` for Urdu
+		- `?hl=km` for Cambodian
+		- `?hl=sw` for Swahili
+		- `?hl=es` for Spanish
+		- `?hl=bn` for Bengali
 ### Freewheels Houston
 Bikes for Refugees:
 - contact Joanne Pantaleon Torres or [Bill Mintz](billmintz51@att.net) to request a bicycle.
@@ -374,7 +374,35 @@ Healthcare through the [Affordable Care Act](https://www.healthcare.gov/glossary
 		- hhussein@hcphes.org 
 
 ## Vision
+| Plan | Eye Doctors? | Vision Benfit?  |
+| --- | --- | --- |
+| Medicaid | yes | yes |
+| STAR Plans | yes | yes | 
+| RMA | yes | **no** |
+| Gold Card | yes | **no** |
+| Healthcare.gov | yes | maybe |
+
+Because RMA and Gold Card do not provide vision benefits (the client can get a prescription, but won't get coverage for the actual frames and lenses), you'll need to get a *glasses voucher*. There are two programs in Texas to do this:
+
 - OneSight Program
+- Prevent Blindness
+healthy Eye Eyeglass voucher,which allows clients to receive one free pair of glasses to optical such as LenCrafters, Pearl Vision, Sears, and Target. 
+
+I have attached the application (Spanish and English) for the voucher program. Adults who do not have vision insurance( Medicaid or Private) and falls under the Federal Governments 200 percentile of the poverty line qualify. 
+
+Also, we offer two children voucher programs for children without CHIP or Medicaid. Our children vouchers allow qualified children to recieve a free eye exam and one free pair of glasses. 
+The two voucher programs are Sight for Students and Let's Go See. Both programs cover the same thing but Let's Go See are for children WITHOUT social security numbers. I have also attached a application for both of those as well. 
+
+Please let me know if you need assistants with anything else, please free to contact my office. 
+Christina Jewett, MSW
+Program Director
+
+Prevent Blindness Texas
+2202 Waugh Drive
+Houston , TX 77006
+T  713-526-2559, Ext. 109
+F  713-529-8310
+
 
 ## Dental 
 > Dr. Bishara is interested in helping refugees. His clinic will provide $35 exams and x-rays for YMCA clients. Clients can decide to pay for further dental care. **Shaoli Bhadra**
@@ -382,7 +410,7 @@ Healthcare through the [Affordable Care Act](https://www.healthcare.gov/glossary
 	- 6060 Richmond Ave, # 210 Houston, TX 77057
 	- Phone: (832) 767-3331
 	- Fax: (832) 538-0343
-	- Email: [menabishara@bisharadental.com](mailto:menabishara@bisharadental.com)
+	- Email: menabishara@bisharadental.com
 	- Hours: Monday - Friday, 9:00am - 5:00pm
 	- Evening & Saturday appointments available
 NOTE: Both Medicaid and RMA are not currently (7/15/17) providing coverage for general dental care. Both will cover *emergency* dental care if the procedure is done within 48 hours of the injury. 
@@ -409,7 +437,7 @@ NOTE: Both Medicaid and RMA are not currently (7/15/17) providing coverage for g
 	- non-perishable food pantry MON--THU and 1st SAT of month
 	- phone: 713 270 0369
 	- fax: 713 270 0570
-	- email: echos@echos-houston.org
+	- echos@echos-houston.org
 - GCCSA
 
 - [Senior Box Program](http://www.houstonfoodbank.org/programs/senior-box-program/)
