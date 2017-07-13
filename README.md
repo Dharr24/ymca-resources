@@ -385,10 +385,18 @@ Healthcare through the [Affordable Care Act](https://www.healthcare.gov/glossary
 | Gold Card | yes | **no** |
 | Healthcare.gov | yes | maybe |
 
-Because RMA and Gold Card do not provide vision benefits (the client can get a prescription, but won't get coverage for the actual frames and lenses), you'll need to get a *glasses voucher*. There are two programs in Texas to do this:
+Because RMA and Gold Card do not provide vision benefits (the client can get a prescription, but won't get coverage for the actual frames and lenses), you'll need to rely on one of two charity organizations: [OneSight](https://rma.pointcomfort.com/files/OneSight%20Voucher%20Program%20Intro.pdf) and [Prevent Blindness of Texas](http://texas.preventblindness.org/request-our-eye-care-referral-services-0). We've used the OneSight program (with LensCrafters) since 2/1/2017.   
 
-- OneSight Program
-- Prevent Blindness
+### OneSight Program
+
+1. Send the client to an optometrist to get a lens prescription.
+2. Call [LensCrafters at the Galleria](https://www.google.com/maps/place/LensCrafters/@29.736271,-95.463985,15z/), 713-623-0855, and ask for a OneSight appointment: make sure to ask if the store has vouchers.
+3. Write a [letter of referral]() for the client on YMCA letterhead and provide our tax ID#. This referral letter is to confirm the need for assistance. The tax ID# proves that the YMCA is a non-profit, charitable agency. 
+
+3.	The referred client can then go to the designated store with their referral letter for a OneSite voucher appointment. Upon arrival, the client should present the YMCA letter and their prescription.
+3. Use the OneSight Program the local LensCrafters run out of vouchers.
+
+2. If the OneSight Program runs out of vouchers, you'll have to request a voucher from Prevent Blindness of Texas.
 healthy Eye Eyeglass voucher,which allows clients to receive one free pair of glasses to optical such as LenCrafters, Pearl Vision, Sears, and Target. 
 
 I have attached the application (Spanish and English) for the voucher program. Adults who do not have vision insurance( Medicaid or Private) and falls under the Federal Governments 200 percentile of the poverty line qualify. 
