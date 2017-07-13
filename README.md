@@ -1,19 +1,18 @@
 # Case Management Bulletin Board
 
-*For Case Managers at the YMCA International Services.* You can also [**review the presentation slides.**](materials/6-30-17-presentation.pdf)
+*For Case Managers at the YMCA International Services.* 
 
-Sharing & [editing](#instructions-for-editing) is encouraged!
+[Editing](#instructions-for-editing) is encouraged!
 
 **Popular Topics** 
-- [Shelters](#shelter)
-- [Clinic Maps](#primary-care-providers)
-- [Gold Card](#gold-card)
+- [Rental Assistance](#rental-assistance) and [Shelters](#shelter)
+- [Healthcare Coverage](#healthcare-coverage), [RMA](#refugee-medical-assistance), and the ["Gold Card"](#gold-card)
+- [Transportation](#transportation) and [Medical Transportation](#medically-necessary-transportation)
+- [A Map of Primary Care Providers](https://drive.google.com/open?id=1kk9yn6-4nifHLIf2tGYbW_7PiYo&usp=sharing)
 - [Social Security Forms](#supplemental-security-income)
-- [Medical Transportation](#medically-necessary-transportation)
-- [Rental Assistance](#rental-assistance)
 
 # Shelter
-Here's a [shelter map](https://drive.google.com/open?id=1DlnGODIVZdoQ_O2P2CK_oXOZkZQ&usp=sharing) for sharing & editing.
+Here's [A Map of Shelters](https://drive.google.com/open?id=1DlnGODIVZdoQ_O2P2CK_oXOZkZQ&usp=sharing).
 
 ## Men's Shelters
 - Star of Hope Men's Shelter & Development Center
@@ -30,8 +29,8 @@ Here's a [shelter map](https://drive.google.com/open?id=1DlnGODIVZdoQ_O2P2CK_oXO
 	- Phone: 832-302-1681
 	- Alt Phone: 832-382-1669
 	- Contact: Seemi Bukhari 
-		- <seemib.tx@icnarelief.org>
-		- <houston@icnarelief.org>
+		- seemib.tx@icnarelief.org
+		- houston@icnarelief.org
 	
 ## for Hispanic Immigrants
 - [Casa Juan Diego](http://cjd.org/about/what-is-casa-juan-diego/)
@@ -210,7 +209,7 @@ Bikes for Refugees:
 # Healthcare
 
 ## Primary Care Providers (PCPs)
-- Here's a [Map of Primary Care Providers](https://drive.google.com/open?id=1kk9yn6-4nifHLIf2tGYbW_7PiYo&usp=sharing) (share & edit!)
+Here's [A Map of Primary Care Providers](https://drive.google.com/open?id=1kk9yn6-4nifHLIf2tGYbW_7PiYo&usp=sharing).
 
 ### [Advice for doctor's appointments](https://www.forbes.com/sites/amino/2016/03/12/how-to-make-every-minute-count-at-your-doctors-appointment/print/) 
 adapted from Sabrina Kang's 3/12/2016 *Forbes* article
@@ -232,16 +231,16 @@ A [federal program](https://en.wikipedia.org/wiki/Medicaid) administered by [TX 
 - STAR Kids (disabled persons under 21 years old)
 	- through [Amerigroup](https://myamerigroup.com/TX/Pages/star-kids.aspx), [Texas Children's](http://www.texaschildrenshealthplan.org/what-we-offer/star-kids), [UnitedHealthcare](http://www.uhccommunityplan.com/tx/medicaid/star_kids.html)
 
-### Refugee Medical Assistance (RMA)
-USCRI contracted [Point Comfort Underwriters](https://rma.pointcomfort.com/#login) (PCU) as the new RMA vendor. If you have a problem, contact somebody on the **[RMA Contact Sheet](materials/texas-rma-contacts.pdf)**
-> Please share with all staff members who work with RMA, especially front-line caseworkers. **Jessica Montour, MPH**
-- RMA provides **healthcare coverage**, **[medical transportation** and **interpretation** during the first 8 months from arrival.
+### Refugee Medical Assistance
+USCRI contracted [Point Comfort Underwriters](https://rma.pointcomfort.com/#login) (PCU) as the new Refugee Medical Assistance (RMA) vendor. If you have a problem, contact somebody on the **[RMA Contact Sheet](materials/texas-rma-contacts.pdf)**
+> Please share with all staff members who work with RMA, especially front-line caseworkers. **Jessica Montour**
+- RMA provides **healthcare coverage**, **medical transportation** and **interpretation** during the first 8 months from arrival.
 - Here's the [RMA Handbook](https://rma.pointcomfort.com/files/RMA%20User%20Guide.pdf).
 - Here's the [enrollment website](https://eredtx.org/)
 	- Contact: Andrew Merville
 		- amerville@uscritx.org
 
-#### RMA Interpretation FAQ
+**RMA Interpretation FAQ**
 
 1. Some of my clients are more comfortable speaking a language other than English when talking with a healthcare provider. Does the Refugee Medical Assistance (RMA) program in Texas offer interpreting services? 
 
@@ -267,7 +266,7 @@ If your client’s appointment has been cancelled or they are unable to keep the
 
 USCRI is committed to culturally and linguistically competent health services. If you or your client have any concerns about the quality of interpreting services, please send an email to RMAlanguageservices@uscridc.org. The email should include a brief description of the specific concern, your client’s name, date and time of the appointment, the language requested and the healthcare provider’s name. This information will help us follow up in a timely manner and address any concerns. 
 
-### RMA Transportation FAQ
+**RMA Transportation FAQ**
 
 For Transportation use the attached form and send it to Ryan Yao three business days before the appointment. 
 
