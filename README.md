@@ -405,8 +405,8 @@ When LensCrafters runs out of OneSight vouchers, complete one of the following v
 
 | | Adults | Kids w/ SSN | Kids w/o SSN |
 | --- | --- | --- | --- |
-| English | [Healthy Eyes](materials/pbt-adults-english.pdf) | [Sight for Students](materials/pbt-kids-english.pdf) | [Let's Go See](materials/pbt-kids-nossn-english.pdf) |
-| Spanish | [Healthy Eyes](materials/pbt-adults-spanish.pdf) | [Sight for Students](materials/pbt-kids-spanish.pdf) | [Let's Go See](materials/pbt-kids-nossn-Spanish.pdf) |
+| English | [Healthy Eyes](materials/pbt-adult-english.pdf) | [Sight for Students](materials/pbt-kids-english.pdf) | [Let's Go See](materials/pbt-kids-nossn-english.pdf) |
+| Spanish | [Healthy Eyes](materials/pbt-adult-spanish.pdf) | [Sight for Students](materials/pbt-kids-spanish.pdf) | [Let's Go See](materials/pbt-kids-nossn-spanish.pdf) |
 
 - Prevent Blindness Texas
 - 2202 Waugh Drive Houston , TX 77006
