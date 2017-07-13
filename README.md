@@ -396,7 +396,7 @@ Because RMA and Gold Card do not provide vision benefits (the client can get a p
 	- [Refugees](materials/onesightrefugee.pdf)
 	- [VOTs](materials/onesightvot.pdf)
 	- [SIV Holders](materials/onesightsiv.pdf)
-	- [Asylees](materials/onsightasylee.pdf)
+	- [Asylees](materials/onesightasylee.pdf)
 4. Send the client with the referral and prescription for the OneSight appointment time. A client with basic English can go alone. The client will get to pick from a limited selection of frames. 
 5. LensCrafters will make the glasses in 2 weeks then call and ask the client to pick them up. 
 
