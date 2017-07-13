@@ -3,12 +3,16 @@
 *Created for Case Managers at the YMCA International Services.* [Editing](#instructions-for-editing) is encouraged!
 
 **Popular Topics** 
-- [Rental Assistance](#rental-assistance) and [Shelters](#shelter)
-- [Healthcare Coverage](#healthcare-coverage), [RMA](#refugee-medical-assistance), and the ["Gold Card"](#gold-card)
-- [Medical Transportation](#medically-necessary-transportation) and [Using the METRO](#metropolitan-transportation)
+- [Rental Assistance](#rental-assistance)
+- [Shelters](#shelter)
+- [RMA](#refugee-medical-assistance) vs. ["Gold Card"](#gold-card)
+- [How to Get Glasses](#vision)
 - [A Map of Primary Care Providers](https://drive.google.com/open?id=1kk9yn6-4nifHLIf2tGYbW_7PiYo&usp=sharing)
+- [Medical Transportation](#medically-necessary-transportation)
+- [Using METRO](#metropolitan-transportation)
 - [Social Security Forms](#supplemental-security-income)
 - [Vaccinations](#vaccinations)
+
 
 # Shelter
 Here's [A Map of Shelters](https://drive.google.com/open?id=1DlnGODIVZdoQ_O2P2CK_oXOZkZQ&usp=sharing).
@@ -155,8 +159,9 @@ Contact: andy.hardwick@ssa.gov
 ## Medically Necessary Transportation
 ### MTM (needs attention)
 - Non Emergency Medical Transportation for *recipients of Medicaid*
-	- a healthcare provider *must* to complete a [statement of medical need](materials/statement-of-medical-need.pdf)
+	- A healthcare provider *must* to complete a [statement of medical need](materials/statement-of-medical-need.pdf)
 	- You can use a [table in English](materials/calling-a-taxi-cheat-sheet.xlsx) or [Spanish](https://github.com/ColtonGrainger/ymca-resources/blob/master/materials/calling-a-taxi-cheat-sheet-spanish.xlsx) for the phone call.
+		- See also Shaoli's instructions
 	- Phone: 855 687 4786
 	- DON'T TELL MTM if your client is going to Physical Therapy! (Tell them it's a primary care doctor or an orthopedic doctor.)
 
@@ -164,7 +169,7 @@ Contact: andy.hardwick@ssa.gov
 - [Eligibility](http://www.ridemetro.org/Pages/MLEligibility.aspx)
 - [Application](https://www.ridemetro.org/MetroPDFs/News/Application-for-METROLift-Service.pdf)
 
-## Metropolitian Transportation
+## Metropolitan Transportation
 ### METRO Bus Education
 - [METRO 101: How to Ride the Bus](https://www.youtube.com/watch?v=X0hQ3X8cfFs)
 
