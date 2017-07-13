@@ -1,8 +1,6 @@
 # Case Management Bulletin Board
 
-*For Case Managers at the YMCA International Services.* 
-
-[Editing](#instructions-for-editing) is encouraged!
+*Created for Case Managers at the YMCA International Services.* [Editing](#instructions-for-editing) is encouraged!
 
 **Popular Topics** 
 - [Rental Assistance](#rental-assistance) and [Shelters](#shelter)
