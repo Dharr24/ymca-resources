@@ -121,7 +121,7 @@ An agency that provides rental and utility assistance (3--4 week turnaround).
 	- Phone: (713) 871-9741
 
 - [Islamic Society of Greater Houston](https://isgh.org/)
-	- E-mail: [info@isgh.org](info@isgh.org) (inquiries) or [zakat@isgh.org](mailto:zakat@isgh.org) (charity)
+	- E-mail: info@isgh.org (inquiries) or zakat@isgh.org (charity)
 	- Contact: April Bowerman, 713 524 6615, Admin Assistant
 	- Contact: Bibi Khan, 832 296 3433, President of An Nisa' Hope Center
 	- Fax: 713 524 2045
@@ -385,34 +385,35 @@ Healthcare through the [Affordable Care Act](https://www.healthcare.gov/glossary
 | Gold Card | yes | **no** |
 | Healthcare.gov | yes | maybe |
 
-Because RMA and Gold Card do not provide vision benefits (the client can get a prescription, but won't get coverage for the actual frames and lenses), you'll need to rely on one of two charity organizations: [OneSight](https://rma.pointcomfort.com/files/OneSight%20Voucher%20Program%20Intro.pdf) and [Prevent Blindness of Texas](http://texas.preventblindness.org/request-our-eye-care-referral-services-0). We've used the OneSight program (with LensCrafters) since 2/1/2017.   
+Because RMA and Gold Card do not provide vision benefits (the client can get a prescription, but won't get coverage for the actual frames and lenses), you'll need to rely on one of two charity organizations: [OneSight](https://rma.pointcomfort.com/files/OneSight%20Voucher%20Program%20Intro.pdf) and [Prevent Blindness of Texas](http://texas.preventblindness.org/request-our-eye-care-referral-services-0). We've used the OneSight program (with LensCrafters) since 2/1/2017. *Use the OneSight Program the Galleria LensCrafters runs out of vouchers.*
 
 ### OneSight Program
 
-1. Send the client to an optometrist to get a lens prescription.
-2. Call [LensCrafters at the Galleria](https://www.google.com/maps/place/LensCrafters/@29.736271,-95.463985,15z/), 713-623-0855, and ask for a OneSight appointment: make sure to ask if the store has vouchers.
-3. Write a [letter of referral]() for the client on YMCA letterhead and provide our tax ID#. This referral letter is to confirm the need for assistance. The tax ID# proves that the YMCA is a non-profit, charitable agency. 
+1. Send the client to an optometrist for an eye exam and a lens prescription.
+2. Call [LensCrafters at the Galleria](https://www.google.com/maps/place/LensCrafters/@29.736271,-95.463985,15z/), 713-623-0855, and ask for a OneSight appointment (usually made only on Tues & Thurs).
+3. Fill and sign the appropriate referral:
+	- [Cuban/Haitan Entrants](materials/onesightcuban.pdf)
+	- [Refugees](materials/onesightrefugee.pdf)
+	- [VOTs](materials/onesightvot.pdf)
+	- [SIV Holders](materials/onesightsiv.pdf)
+	- [Asylees](materials/onsightasylee.pdf)
+4. Send the client with the referral and prescription for the OneSight appointment time. A client with basic English can go alone. The client will get to pick from a limited selection of frames. 
+5. LensCrafters will make the glasses in 2 weeks then call and ask the client to pick them up. 
 
-3.	The referred client can then go to the designated store with their referral letter for a OneSite voucher appointment. Upon arrival, the client should present the YMCA letter and their prescription.
-3. Use the OneSight Program the local LensCrafters run out of vouchers.
+### Prevent Blindness of Texas
+When LensCrafters runs out of OneSight vouchers, complete one of the following voucher applications and fax it to Prevent Blindness of Texas, 713-529-8310. *Once the client obtains a voucher, reach out to LensCrafters for a OneSight appointment, as outlined about.*
 
-2. If the OneSight Program runs out of vouchers, you'll have to request a voucher from Prevent Blindness of Texas.
-healthy Eye Eyeglass voucher,which allows clients to receive one free pair of glasses to optical such as LenCrafters, Pearl Vision, Sears, and Target. 
+| | Adults | Kids w/ SSN | Kids w/o SSN |
+| --- | --- | --- | --- |
+| English | [Healthy Eyes](materials/pbt-adults-english.pdf) | [Sight for Students](materials/pbt-kids-english.pdf) | [Let's Go See](materials/pbt-kids-nossn-english.pdf) |
+| Spanish | [Healthy Eyes](materials/pbt-adults-spanish.pdf) | [Sight for Students](materials/pbt-kids-spanish.pdf) | [Let's Go See](materials/pbt-kids-nossn-Spanish.pdf) |
 
-I have attached the application (Spanish and English) for the voucher program. Adults who do not have vision insurance( Medicaid or Private) and falls under the Federal Governments 200 percentile of the poverty line qualify. 
-
-Also, we offer two children voucher programs for children without CHIP or Medicaid. Our children vouchers allow qualified children to recieve a free eye exam and one free pair of glasses. 
-The two voucher programs are Sight for Students and Let's Go See. Both programs cover the same thing but Let's Go See are for children WITHOUT social security numbers. I have also attached a application for both of those as well. 
-
-Please let me know if you need assistants with anything else, please free to contact my office. 
-Christina Jewett, MSW
-Program Director
-
-Prevent Blindness Texas
-2202 Waugh Drive
-Houston , TX 77006
-T  713-526-2559, Ext. 109
-F  713-529-8310
+- Prevent Blindness Texas
+- 2202 Waugh Drive Houston , TX 77006
+- T  713-526-2559, Ext. 109
+- F  713-529-8310
+- Contact: Christina Jewett, MSW
+- CJewett@preventblindnesstexas.org
 
 
 ## Dental 
