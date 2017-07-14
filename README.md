@@ -7,7 +7,6 @@
 - [Shelters](#shelter)
 - [RMA](#refugee-medical-assistance) vs. ["Gold Card"](#gold-card)
 - [How to Get Glasses](#vision)
-- [A Map of Primary Care Providers](https://drive.google.com/open?id=1kk9yn6-4nifHLIf2tGYbW_7PiYo&usp=sharing)
 - [Medical Transportation](#medically-necessary-transportation)
 - [Using METRO](#metropolitan-transportation)
 - [Social Security Forms](#supplemental-security-income)
@@ -16,11 +15,10 @@
 **Popular Links** 
 - [Request a YMCA volunteer](https://form.jotform.com/70376219226153)
 - [Point Comfort RMA Portal](https://rma.pointcomfort.com/#login)
-- [eRED](https://eredtx.org/)
+- [A Map of Primary Care Providers](https://drive.google.com/open?id=1kk9yn6-4nifHLIf2tGYbW_7PiYo&usp=sharing)
+- [A Map of Shelters](https://drive.google.com/open?id=1DlnGODIVZdoQ_O2P2CK_oXOZkZQ&usp=sharing)
 
-# Shelter
-Here's [A Map of Shelters](https://drive.google.com/open?id=1DlnGODIVZdoQ_O2P2CK_oXOZkZQ&usp=sharing).
-
+# [Shelter](https://drive.google.com/open?id=1DlnGODIVZdoQ_O2P2CK_oXOZkZQ&usp=sharing)
 ## Men's Shelters
 - Star of Hope Men's Shelter & Development Center
 	- Address: 1811 Ruiz St, Houston, TX 77002
