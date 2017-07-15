@@ -288,7 +288,7 @@ Interpreting services may be offered by the healthcare provider, local resettlem
 
 2. How can I get access to interpreting services on behalf of my client?
 
-To request interpreting services for your client’s scheduled medical appointment, please complete the [Interpreter Request Form](materials/rma-interp). The form must be submitted to RMAlanguageservices@uscridc.org at least three days prior to the appointment date. If the request is approved, you will receive an email stating that an interpreter will call the healthcare provider at the time of your client’s medical appointment. If the request is not approved, you will receive an email indicating the reason. 
+To request interpreting services for your client’s scheduled medical appointment, please complete the [Interpreter Request Form](materials/rma-interp.docx). The form must be submitted to RMAlanguageservices@uscridc.org at least three days prior to the appointment date. If the request is approved, you will receive an email stating that an interpreter will call the healthcare provider at the time of your client’s medical appointment. If the request is not approved, you will receive an email indicating the reason. 
 
 3. Who is eligible to receive interpreting services under Refugee Medical Assistance?
 
