@@ -159,45 +159,47 @@ Contact: andy.hardwick@ssa.gov
 # Transportation
 
 ## Medically Necessary Transportation
+
+*If your client has RMA, you should look at [RMA Transportation](#refugee-medical-assistance).*
+
 ### MTM
-- Non Emergency Medical Transportation for *recipients of Medicaid*
-	- A healthcare provider *must* to complete a [statement of medical need](materials/statement-of-medical-need.pdf)
-		i. A Statement of Medical Need is used when a client needs to ride in a medical taxi or needs to be accompanied by another person to appointments. 
-		ii. MTM faxes the form to the PCP (primary care physician). 
-		iii. The PCP must fill out form and fax it to MTM as soon as possible. 
-	- You can use a [table in English](materials/calling-a-taxi-cheat-sheet.xlsx) or [Spanish](https://github.com/ColtonGrainger/ymca-resources/blob/master/materials/calling-a-taxi-cheat-sheet-spanish.xlsx) for the phone call.
-	- Phone: 855 687 4786
-	- DON'T TELL MTM if your client is going to Physical Therapy! (Tell them it's a primary care doctor or an orthopedic doctor.)
-
-Make sure you schedule a taxi at least **48 hours** in advance. Otherwise, MTM will not be able to guarantee transportation until a spot opens up.
-
-If you cannot communicate in English:
-- Call the number (855-687-4786) and you will be asked to enter the client’s Medicaid ID number. Enter this and wait. A representative will come on the line. Once a customer representative answers, say, “I do not speak English. I speak (language). Please help me.” You will then be transferred to an interpreter who will assist you. 
-
-Before you call:
-1. Have all the relevant information ready in front of you. 
-	a. Medicaid ID # for person who needs the transportation
-	b. Date of Birth of person
-	c. Name of person
-	d. Physical Address of person
-		i. If address is 6300 Westpark Drive, YMCA’s address, change it to your address so you will be picked up from your house. You will need to call 2-1-1 later to report the address change too.
-	e. Phone number where person can be reached. (This is for the taxi company so they can contact the person directly)
-	f. Date and time of your appointment
-	g. Address of where appointment will be
-	h. Phone number of the appointment’s location
-	i. What kind of appointment is it? (For example, annual check-up, cardiologist, chest x-ray, etc)
-
-
-When you call (855-687-4786):
-1. First you will be asked Medicaid ID # for person who needs the transportation
-2. Second you will be asked to verify name of person and date of birth
-3. Third you will be asked to verify address and phone number
-4. Fourth you will be asked what day and time is the appointment.
-5. Fifth you will be asked where the appointment is and the telephone number for the location.
-6. If you need to ride in a taxi or paralift, or you need an additional passenger, tell them.
-	a. Most likely, they will send the statement of medical need to your PCP. PCP must fax it back to MTM. Once it is received, they will allow transportation to proceed for the person. 
-7. When transportation is arranged, ask for the name and phone number of the taxi company. 
-	a. Sometimes, if you don’t have any medical issues/communication issues, your option for transportation may be the bus. If this is the case, the bus pass will be mailed to your home address.
+Non Emergency Medical Transportation for *recipients of Medicaid*
+- A healthcare provider *must* to complete a [statement of medical need](materials/statement-of-medical-need.pdf)
+	- A Statement of Medical Need is used when a client needs to ride in a medical taxi or needs to be accompanied by another person to appointments. 
+	- MTM faxes the form to the PCP (primary care physician). 
+	- The PCP must fill out form and fax it to MTM as soon as possible. 
+- You can use a [table in English](materials/calling-a-taxi-cheat-sheet.xlsx) or [Spanish](https://github.com/ColtonGrainger/ymca-resources/blob/master/materials/calling-a-taxi-cheat-sheet-spanish.xlsx) for the calling. Phone: 855 687 4786.
+- *Don't tell MTM if your client is going to Physical Therapy!* (Tell them it's a primary care doctor or an orthopedic doctor.)
+- Make sure you schedule a taxi at least **48 hours** in advance. 
+	- Otherwise, MTM will not be able to guarantee transportation until a spot opens up.
+- If you cannot communicate in English:
+	- Call the number (855-687-4786) and you will be asked to enter the client’s Medicaid ID number. 
+	- Enter this and wait.
+	- A representative will come on the line. 
+	- Once a customer representative answers, say, “I do not speak English. I speak (language). Please help me.” 
+	- You will then be transferred to an interpreter who will assist you. 
+- Before you call, have all the relevant information ready in front of you. 
+	- Medicaid ID # for person who needs the transportation
+	- Date of Birth of person
+	- Name of person
+	- Physical Address of person
+		- If address is 6300 Westpark Drive, YMCA’s address, change it to your address so you will be picked up from your house. 
+		-You will need to call 2-1-1 later to report the address change too.
+	- Phone number where person can be reached. (This is for the taxi company so they can contact the person directly)
+	- Date and time of your appointment
+	- Address of where appointment will be
+	- Phone number of the appointment’s location
+	- What kind of appointment is it? (For example, annual check-up, cardiologist, chest x-ray, etc)
+- When you call (855-687-4786)
+	1. First you will be asked Medicaid ID # for person who needs the transportation
+	2. Second you will be asked to verify name of person and date of birth
+	3. Third you will be asked to verify address and phone number
+	4. Fourth you will be asked what day and time is the appointment.
+	5. Fifth you will be asked where the appointment is and the telephone number for the location.
+	6. If you need to ride in a taxi or paralift, or you need an additional passenger, tell them.
+		- Most likely, they will send the statement of medical need to your PCP. PCP must fax it back to MTM. Once it is received, they will allow transportation to proceed for the person. 
+	7. When transportation is arranged, ask for the name and phone number of the taxi company.
+		- Sometimes, if you don’t have any medical issues/communication issues, your option for transportation may be the bus. If this is the case, the bus pass will be mailed to your home address.
 
 ### METROLift
 - [Eligibility](http://www.ridemetro.org/Pages/MLEligibility.aspx)
