@@ -348,7 +348,7 @@ The [Harris Health Financial Assistance Program](https://www.harrishealth.org/en
 		- declaration of marriage
 		- marriage license
 	- Statement of Support Document
-	   -https://www.harrishealth.org/SiteCollectionDocuments/eligibility/applicant-forms/English/support-statement-english.pdf
+	   -(https://www.harrishealth.org/SiteCollectionDocuments/eligibility/applicant-forms/English/support-statement-english.pdf)
 - Have a complaint? *Let Harris Health know about it.*
 	- Patient Customer Relations
 	- Attn: Andrea Kennedy-Tull
