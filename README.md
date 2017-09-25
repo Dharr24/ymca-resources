@@ -73,6 +73,7 @@
 	- Hotline: 713 529 3211 (the LGBT Switchboard of Houston)
 	- Phone: 713-529-0037
 	- Address: [701 Richmond Avenue, Houston, TX 77006](http://www.montrosecenter.org/hub/about/contacts/)
+
 -[Covenant House Texas](https://www.covenanthousetx.org/)
         - At risk youth under the age of 21
 	- Phone: 713 523 2231
