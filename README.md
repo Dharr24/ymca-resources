@@ -75,8 +75,11 @@
 	- Address: [701 Richmond Avenue, Houston, TX 77006](http://www.montrosecenter.org/hub/about/contacts/)
 
 -[Covenant House Texas](https://www.covenanthousetx.org/)
-        - At risk youth under the age of 21
+        
+	- At risk youth under the age of 21
+	
 	- Phone: 713 523 2231
+	
 	- Adress: 1111 Lovett Blvd. Houston, Texas 77006 (near corner of Westheimer & Montrose) 
 
 ## Cancer Care Centers
