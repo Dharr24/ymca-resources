@@ -145,7 +145,17 @@ An agency that provides rental and utility assistance (3--4 week turnaround).
 	- 3 months of financial assistance for women with cancer
 	- Email: grants@pinkdoornonprofit.org 
 	- Phone: (832) 727-3121
-
+- Matthew 25 Social service
+   
+        - Located at 3826 Wheeler Ave 
+	- phone: 713 747 7101
+	- Call to schedule an appointment; does not accept walk-ins
+	- Provides financila assistance for rent, mortgage, electric, water, and gas bills
+	- Provide vald ID AND Social Security Card for everyone in household;
+	- Proof of income for past 60 days
+	- Proof of pledges from other organizations
+	- Money order from local grocery stores, showing self-payment
+	
 # Social Security
 ## Supplemental Security Income
 Contact: andy.hardwick@ssa.gov
