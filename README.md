@@ -131,7 +131,7 @@ An agency that provides rental and utility assistance (3--4 week turnaround).
 	- Contact: Bibi Khan, 832 296 3433, President of An Nisa' Hope Center
 	- Fax: 713 524 2045
 	
-- Wheeler & First Baptist Church
+
 
 - St Francis de Sales Catholic Church
 	- They'll provide full rental assistance for clients in the zip code 77036
