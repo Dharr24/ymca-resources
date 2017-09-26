@@ -37,6 +37,7 @@
 		- seemib.tx@icnarelief.org
 		- houston@icnarelief.org
 - [Sally's House](http://salvationarmyhouston.org/sallys-house/)
+       
         - Address: 1717 Congress, Houston, TX 77002
 	- Phone:  713 223 8889
 ## for Hispanic Immigrants
