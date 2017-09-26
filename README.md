@@ -156,7 +156,14 @@ An agency that provides rental and utility assistance (3--4 week turnaround).
 	- Proof of income for past 60 days
 	- Proof of pledges from other organizations
 	- Money order from local grocery stores, showing self-payment
-	
+-[Interfaith Ministries Refugee Services](https://www.imgh.org/refugee-services/)
+
+
+       - Housing, Culural Orientation, English Classes, School Enrollment, Job Placement
+       - Located at 3303 Main Street, Houston, TX 77002
+       - Phone: 713 533 4900
+       - Fax: 713 520 4663
+       
 # Social Security
 ## Supplemental Security Income
 Contact: andy.hardwick@ssa.gov
