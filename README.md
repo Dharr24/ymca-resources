@@ -164,10 +164,10 @@ An agency that provides rental and utility assistance (3--4 week turnaround).
       
       
       
-       - Housing, Culural Orientation, English Classes, School Enrollment, Job Placement
-       - Located at 3303 Main Street, Houston, TX 77002
-       - Phone: 713 533 4900
-       - Fax: 713 520 4663
+     - Housing, Culural Orientation, English Classes, School Enrollment, Job Placement
+     - Located at 3303 Main Street, Houston, TX 77002
+     - Phone: 713 533 4900
+     - Fax: 713 520 4663
        
 # Social Security
 ## Supplemental Security Income
