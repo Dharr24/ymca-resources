@@ -468,8 +468,10 @@ When LensCrafters runs out of OneSight vouchers, complete one of the following v
 	- Evening & Saturday appointments available
 NOTE: Both Medicaid and RMA are not currently (7/15/17) providing coverage for general dental care. Both will cover *emergency* dental care if the procedure is done within 48 hours of the injury. 
 
->Shiny Smile Dental, Dr. Mustafa Alsafi, MDM and Dr. Reem Saeed, DDS. Medicaid, CHIP,PPO, PCU are accepted. Payment Plans-Care Credit.**Darin Harrison**
-  -13977 Westheimer Rd. Suite# B, Houston, TX 77077
+>Shiny Smile Dental-Dr. Mustafa Alsafi, MDM and Dr. Reem Saeed, DDS. Medicaid, CHIP,PPO, PCU are accepted. Payment Plans-Care Credit. **Darin Harrison**
+ 
+
+-13977 Westheimer Rd. Suite# B, Houston, TX 77077
   - Phone: (281) 406-8891
   - Fax: (346) 570-4119
 
